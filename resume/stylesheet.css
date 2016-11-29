@@ -22,15 +22,15 @@ ul {
   margin-top:60px;
   background-color:#00cd66;
   position: relative;
-  width:100px
-  height:400px;
+  width:400px
+  height:100px;
 }
 .blockl {
   background-color:#008b45;
   float:left;
   position:relative;
-  width:100px;
-  height:400px;
+  width:50px;
+  height:100px;
 }
 
 
