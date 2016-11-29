@@ -22,7 +22,7 @@ ul {
 	float: right;
 	margin-top: 50px;
 	width: 88%;
-	height: 400px;
+	height: 600px;
 	background-color:#008b45;
 	margin-bottom: 10px;
 }
@@ -31,7 +31,7 @@ ul {
 	float: left;
 	margin-top: 50px;
 	width: 10%;
-	height: 400px;
+	height: 600px;
 	background-color:#00cd66; 
 	margin-bottom: 10px; 
 }
