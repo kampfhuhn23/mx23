@@ -24,13 +24,12 @@ ul {
   background-color:#00cd66;
   width:400px
   height:100px;
-  float:right;
 }
 .blockl {
   position: relative;
   background-color:#008b45;
   float:left;
-  width:50px;
+  width:400px;
   height:100px;
 }
 
