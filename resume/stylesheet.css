@@ -19,15 +19,17 @@ ul {
 }
 .blocks {
   position: relative;
+  margin-left:75px;
+  margin-top:60px;
   background-color:#00cd66;
-  width:400px
+  width:88%
   height:100px;
 }
 .blockl {
   position: relative;
   background-color:#008b45;
   float:left;
-  width:400px;
+  width:10%;
   height:100px;
 }
 
