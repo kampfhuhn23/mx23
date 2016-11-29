@@ -18,13 +18,16 @@ ul {
   font-size:20px;
 }
 .blocks {
+  position: relative;
   margin-left:75px;
   margin-top:60px;
   background-color:#00cd66;
   width:400px
   height:100px;
+  float:right;
 }
 .blockl {
+  position: relative;
   background-color:#008b45;
   float:left;
   width:50px;
