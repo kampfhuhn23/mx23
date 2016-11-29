@@ -26,7 +26,6 @@ ul {
 .blockl {
   position: relative;
   background-color:#008b45;
-  float:left;
   width:10%;
   height:100px;
 }
