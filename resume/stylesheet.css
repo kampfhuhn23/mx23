@@ -18,22 +18,22 @@ ul {
   font-size:20px;
 }
 .blocks {
-  position: relative;
-	float: left;
-	margin-top: 50px;
-	width: 10%;
-	height: 400px;
-	background-color:#00cd66; 
-	margin-bottom: 10px; 
-}
-.blockl {
-  position: relative;
+ 	position: relative;
 	float: right;
 	margin-top: 50px;
 	width: 88%;
 	height: 400px;
 	background-color:#008b45;
 	margin-bottom: 10px;
+}
+.blockl {
+  	position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 10%;
+	height: 400px;
+	background-color:#00cd66; 
+	margin-bottom: 10px; 
 }
 
 
